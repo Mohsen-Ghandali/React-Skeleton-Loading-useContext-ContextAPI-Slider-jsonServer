@@ -1,0 +1,69 @@
+{
+    "products": [
+            {
+                "id": 1,
+                 "name": "Alba Chair",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2020/01/DSC_4921-543x720.jpg",
+                "alt": "Alba Chair",
+                "price": 190,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            },
+            {
+                "id": 2,
+                "name": "Flow Table",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2021/11/DAV_1390-543x720.jpg",
+                "alt": "Flow Table",
+                "price": 150,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            },
+            {
+                "id": 3,
+                "name": "Alba Man",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2020/10/Invito_bar_chair_3-543x720.jpg",
+                "alt": "Alba Man",
+                "price": 280,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            },
+            {
+                "id": 4,
+                "name": "Fin Chair",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2020/08/Fin_chair_1-543x720.jpg",
+                "alt": "Fin Chair",
+                "price": 320,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            },
+            {
+                "id": 5,
+                "name": "Picard Desk",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2018/07/neva-sideboard-thumb-768x1018.jpg",
+                "alt": "Picard Desk",
+                "price": 280,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            },
+            {
+                "id": 6,
+                "name": "Insert Lamp",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2018/08/shift-lamp-2-543x720.jpg",
+                "alt": "Insert Lamp",
+                "price": 150,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            },
+            {
+                "id": 7,
+                "name": "Neva Table",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2022/06/DAV3721-543x720.jpg",
+                "alt": "Neva Table",
+                "price": 190,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+                
+            },
+            {
+                "id": 8,
+                "name": "Tesa Chair",
+                "img": "https://artisanfurnitureaustralia.com.au/wp-content/uploads/2018/07/neva-lounge-thumb-768x1018.jpg",
+                "alt": "Tesa Chair",
+                "price": 320,
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Veniam, incidunt autem ipsa quibusdam modi quisquam quidem perspiciatis consequatur alias aspernatur, dolorem expedita dolorum nihil rerum ipsum labore nemo recusandae nisi repellat temporibus velit dolor! Quasi, repellendus officiis nesciunt nam nisi aperiam iusto accusamus velit fugiat nulla error porro, eos dolore."
+            }
+        ]
+    }
